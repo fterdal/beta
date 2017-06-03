@@ -25,7 +25,7 @@ SECRET_KEY = '&p(a+w@*mfo+=5!b)-5ls#no%_u7olcd8f$v+-vu$%g_0^1v%r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','127.0.0.1',]
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'aquifr.org', 'aquifr.us', ]
 
 
 # Application definition
